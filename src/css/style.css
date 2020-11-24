@@ -1,0 +1,13 @@
+@import "~normalize.css";
+@import "roboto.css";
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: rgb(205, 145, 255);
+}
+.logo {
+    background-image: url("../../assets/discord-logo.png");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
